@@ -1,0 +1,15 @@
+﻿<Window x:Class="ATMApplication_WPF.ViewStatementPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="View Statement" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="TransactionDataGrid" AutoGenerateColumns="False" Margin="10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Date" Binding="{Binding Date}" />
+                <DataGridTextColumn Header="Description" Binding="{Binding Description}" />
+                <DataGridTextColumn Header="Amount" Binding="{Binding Amount}" />
+                <DataGridTextColumn Header="Balance" Binding="{Binding Balance}" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\ATMApplication_WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E55158-83BE-418A-AC9C-E6066915078D}|ATMApplication_WPF.csproj|c:\\users\\lovel\\onedrive - conestoga college\\sqa\\high quality software programming\\atmapplication_assignment03\\atmapplication_wpf\\atmapplication_wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0E55158-83BE-418A-AC9C-E6066915078D}|ATMApplication_WPF.csproj|solutionrelative:atmapplication_wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E55158-83BE-418A-AC9C-E6066915078D}|ATMApplication_WPF.csproj|c:\\users\\lovel\\onedrive - conestoga college\\sqa\\high quality software programming\\atmapplication_assignment03\\atmapplication_wpf\\account model\\bankaccountoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E55158-83BE-418A-AC9C-E6066915078D}|ATMApplication_WPF.csproj|solutionrelative:account model\\bankaccountoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E55158-83BE-418A-AC9C-E6066915078D}|ATMApplication_WPF.csproj|c:\\users\\lovel\\onedrive - conestoga college\\sqa\\high quality software programming\\atmapplication_assignment03\\atmapplication_wpf\\accountmanagement\\ibankaccountoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E55158-83BE-418A-AC9C-E6066915078D}|ATMApplication_WPF.csproj|solutionrelative:accountmanagement\\ibankaccountoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E55158-83BE-418A-AC9C-E6066915078D}|ATMApplication_WPF.csproj|c:\\users\\lovel\\onedrive - conestoga college\\sqa\\high quality software programming\\atmapplication_assignment03\\atmapplication_wpf\\utilities\\bankstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E55158-83BE-418A-AC9C-E6066915078D}|ATMApplication_WPF.csproj|solutionrelative:utilities\\bankstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E55158-83BE-418A-AC9C-E6066915078D}|ATMApplication_WPF.csproj|c:\\users\\lovel\\onedrive - conestoga college\\sqa\\high quality software programming\\atmapplication_assignment03\\atmapplication_wpf\\accountservices\\transactionsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E55158-83BE-418A-AC9C-E6066915078D}|ATMApplication_WPF.csproj|solutionrelative:accountservices\\transactionsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E55158-83BE-418A-AC9C-E6066915078D}|ATMApplication_WPF.csproj|c:\\users\\lovel\\onedrive - conestoga college\\sqa\\high quality software programming\\atmapplication_assignment03\\atmapplication_wpf\\accountservices\\bankaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E55158-83BE-418A-AC9C-E6066915078D}|ATMApplication_WPF.csproj|solutionrelative:accountservices\\bankaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E55158-83BE-418A-AC9C-E6066915078D}|ATMApplication_WPF.csproj|c:\\users\\lovel\\onedrive - conestoga college\\sqa\\high quality software programming\\atmapplication_assignment03\\atmapplication_wpf\\accountmanagement\\ibankaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E55158-83BE-418A-AC9C-E6066915078D}|ATMApplication_WPF.csproj|solutionrelative:accountmanagement\\ibankaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\ATMApplication_WPF\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lovel\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankStatement.cs",
+              "DocumentMoniker": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\ATMApplication_WPF\\Utilities\\BankStatement.cs",
+              "RelativeDocumentMoniker": "Utilities\\BankStatement.cs",
+              "ToolTip": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\ATMApplication_WPF\\Utilities\\BankStatement.cs",
+              "RelativeToolTip": "Utilities\\BankStatement.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:00:25.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccountOperations.cs",
+              "DocumentMoniker": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\ATMApplication_WPF\\Account Model\\BankAccountOperations.cs",
+              "RelativeDocumentMoniker": "Account Model\\BankAccountOperations.cs",
+              "ToolTip": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\ATMApplication_WPF\\Account Model\\BankAccountOperations.cs",
+              "RelativeToolTip": "Account Model\\BankAccountOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:50:08.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBankAccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\ATMApplication_WPF\\AccountManagement\\IBankAccountManager.cs",
+              "RelativeDocumentMoniker": "AccountManagement\\IBankAccountManager.cs",
+              "ToolTip": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\ATMApplication_WPF\\AccountManagement\\IBankAccountManager.cs",
+              "RelativeToolTip": "AccountManagement\\IBankAccountManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:46:20.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankAccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\ATMApplication_WPF\\AccountServices\\BankAccountManager.cs",
+              "RelativeDocumentMoniker": "AccountServices\\BankAccountManager.cs",
+              "ToolTip": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\ATMApplication_WPF\\AccountServices\\BankAccountManager.cs",
+              "RelativeToolTip": "AccountServices\\BankAccountManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:47:00.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBankAccountOperations.cs",
+              "DocumentMoniker": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\ATMApplication_WPF\\AccountManagement\\IBankAccountOperations.cs",
+              "RelativeDocumentMoniker": "AccountManagement\\IBankAccountOperations.cs",
+              "ToolTip": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\ATMApplication_WPF\\AccountManagement\\IBankAccountOperations.cs",
+              "RelativeToolTip": "AccountManagement\\IBankAccountOperations.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:49:39.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionsManager.cs",
+              "DocumentMoniker": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\ATMApplication_WPF\\AccountServices\\TransactionsManager.cs",
+              "RelativeDocumentMoniker": "AccountServices\\TransactionsManager.cs",
+              "ToolTip": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\ATMApplication_WPF\\AccountServices\\TransactionsManager.cs",
+              "RelativeToolTip": "AccountServices\\TransactionsManager.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:50:00.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\ATMApplication_WPF\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows\\App.g.cs",
+              "ToolTip": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\ATMApplication_WPF\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0-windows\\App.g.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvzAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:59:51.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ATMApplication_WPF.csproj",
+              "DocumentMoniker": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\ATMApplication_WPF\\ATMApplication_WPF.csproj",
+              "RelativeDocumentMoniker": "ATMApplication_WPF.csproj",
+              "ToolTip": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\ATMApplication_WPF\\ATMApplication_WPF.csproj",
+              "RelativeToolTip": "ATMApplication_WPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T17:59:22.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\lovel\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\lovel\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "ViewState": "AgIAAGwCAAAAAAAAAAAhwLUBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:26:02.639Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿<Window x:Class="ATMApplication_WPF.UI.LoginPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login" Height="300" Width="400" WindowState="Maximized">
+    <Grid>
+        <!-- Welcome message -->
+        <TextBlock Text="Welcome to ATM! Enter Account Number and Password to Login."
+                   HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10" FontSize="16" FontWeight="Bold"/>
+
+        <!-- Account number label and text box -->
+        <Label Content="Account Number" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,40,0,0"/>
+        <TextBox x:Name="AccountNumberTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="150,40,10,0" Width="200"/>
+
+        <!-- Password label and password box -->
+        <Label Content="Password" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,80,0,0"/>
+        <PasswordBox x:Name="PasswordBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="150,80,10,0" Width="200"/>
+
+        <!-- Login button placed directly below the PasswordBox -->
+        <Button Content="Login" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,120,0,0" Width="100" Click="LoginButton_Click"/>
+    </Grid>
+</Window>
